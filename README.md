@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hola soy Nicole y soy front-end developer.  
+Hola soy Nicole y soy front-end developer 👩‍💻.  
 
-Amo como el mundo de la tecnología nos puede ayudar a conectar con otros y acceder a la información.  
+Amo como el mundo de la tecnología nos puede ayudar a conectar con otros y acceder a la información 🖥️.  
 
-Desempeñándome como terapeuta ocupacional siempre busqué usar la tecnología a mi favor para favorecer el proceso de rehabilitación de mis usuarios/pacientes.  
+Desempeñándome como terapeuta ocupacional siempre busqué usar la tecnología a mi favor para favorecer el proceso de rehabilitación de mis usuarios/pacientes 🚀.  
 
-Hoy soy una apasionada del desarrollo web y me encuentro aprendiendo constantemente para trabajar en la tecnología y acercarme a generar herramienta para facilitar la vida de las personas.  
+Hoy soy una apasionada del desarrollo web y me encuentro aprendiendo constantemente para trabajar en la tecnología y acercarme a generar herramienta para facilitar la vida de las personas 🤝.  
 
 
 ## 🌐 Socials:
