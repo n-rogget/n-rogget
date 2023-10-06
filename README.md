@@ -8,7 +8,7 @@ Desempeñándome como terapeuta ocupacional siempre busqué usar la tecnología 
 Hoy soy una apasionada del desarrollo web y me encuentro aprendiendo constantemente para trabajar en la tecnología y acercarme a generar herramienta para facilitar la vida de las personas 🤝.  
 
 
-## 🌐 Redes sociales:
+## 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-rogget/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicole.rogget@gmail.com)
 
