@@ -20,8 +20,6 @@ Hoy soy una apasionada del desarrollo web y me encuentro aprendiendo constanteme
 ![](https://github-readme-streak-stats.herokuapp.com/?user=n-rogget&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n-rogget&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Trofeos
-![](https://github-profile-trophy.vercel.app/?username=n-rogget&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=n-rogget&icon=2&color=5)](https://visitcount.itsvg.in)
